@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "505ea19e1aa4b2265410ad79c05bafa2"
+build_time: [542113281, 685808000]
+inputs:
+  "/Users/macmini/Documents/SourceCode/iOS/My Apps/ToDo/ToDoTests/ItemListDataProviderTests.swift": [542113163, 0]
+  "/Users/macmini/Documents/SourceCode/iOS/My Apps/ToDo/ToDoTests/ToDoTests.swift": [542106408, 0]
+  "/Users/macmini/Documents/SourceCode/iOS/My Apps/ToDo/ToDoTests/ItemListViewControllerTests.swift": [542109364, 0]
